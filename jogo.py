@@ -180,7 +180,7 @@ maior_pontuacao_legenda.pack()
 quadro = Canvas(janela,bg = FUNDO,height= ALTURA,width= LARGURA)
 quadro.pack()
 
-versao = Label(janela,text = 'v. Alpha 1.1.0',font = ('Comic Sans',10),fg = 'white'
+versao = Label(janela,text = 'v. Alpha 1.2.0',font = ('Comic Sans',10),fg = 'white'
                ,bg = FUNDO)
 versao.place(x=LARGURA-145,y = 38)
 
